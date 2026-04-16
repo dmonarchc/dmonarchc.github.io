@@ -1,0 +1,40 @@
+---
+---
+
+body {
+  background-color: #0f1115;  // fondo oscuro
+  color: #d8dee9;             // texto principal
+}
+
+.site-header {
+  background-color: #0f1115;
+  border-bottom: 1px solid #2a2f3a;
+}
+
+.site-title, .page-link {
+  color: #e6e6e6 !important;
+}
+
+a {
+  color: #98c379; // verde suave (estilo hacker sobrio)
+}
+
+a:hover {
+  color: #7fdc9a;
+}
+
+.post-content {
+  line-height: 1.7;
+}
+
+code {
+  background-color: #1a1f27;
+  color: #98c379;
+  padding: 2px 4px;
+}
+
+pre {
+  background-color: #1a1f27;
+  padding: 10px;
+  border-radius: 6px;
+}
