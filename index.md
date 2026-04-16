@@ -8,8 +8,8 @@ title: Inicio
 Backend Developer | Data | Systems
 
 Estoy construyendo:
-- Una base de datos desde cero (sqlite-clone)
-- Un navegador simple
-- Proyectos de sistemas y bajo nivel
+- sqlite-clone (base de datos desde cero)
+- microbrowser-engine
+- proyectos de bajo nivel
 
-## Últimos posts
+Bienvenido a mi blog técnico.
