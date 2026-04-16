@@ -1,9 +1,11 @@
 ---
 ---
 
+@import "minima";
+
 body {
-  background-color: #0f1115;  // fondo oscuro
-  color: #d8dee9;             // texto principal
+  background-color: #0f1115;
+  color: #d8dee9;
 }
 
 .site-header {
@@ -11,20 +13,23 @@ body {
   border-bottom: 1px solid #2a2f3a;
 }
 
-.site-title, .page-link {
+.site-title,
+.page-link {
   color: #e6e6e6 !important;
 }
 
 a {
-  color: #98c379; // verde suave (estilo hacker sobrio)
+  color: #98c379;
 }
 
 a:hover {
   color: #7fdc9a;
 }
 
-.post-content {
-  line-height: 1.7;
+.post-content,
+.page-content,
+.wrapper {
+  color: #d8dee9;
 }
 
 code {
@@ -35,6 +40,6 @@ code {
 
 pre {
   background-color: #1a1f27;
-  padding: 10px;
   border-radius: 6px;
+  padding: 10px;
 }
