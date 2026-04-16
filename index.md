@@ -1,9 +1,15 @@
-# Hola, soy dmonarchc
+---
+layout: home
+title: Inicio
+---
 
-Desarrollador backend, datos, sistemas y aprendizaje continuo.
+# Hola, soy Daniel Cisternas
 
-## Qué encontrarás aquí
-- Proyectos personales
-- Notas técnicas
-- Matemáticas para programadores
-- Experimentos y aprendizajes reales
+Backend Developer | Data | Systems
+
+Estoy construyendo:
+- Una base de datos desde cero (sqlite-clone)
+- Un navegador simple
+- Proyectos de sistemas y bajo nivel
+
+## Últimos posts
