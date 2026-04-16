@@ -3,20 +3,47 @@
 
 @import "{{ site.theme }}";
 
+/* =========================
+   Base (fondo + texto)
+========================= */
+
 body {
-  background-color: #0f1115;
-  color: #d8dee9;
+  background-color: #0f1115 !important;
+  color: #d8dee9 !important;
 }
 
+/* =========================
+   Header / navegación
+========================= */
+
 .site-header {
-  background-color: #0f1115;
+  background-color: #0f1115 !important;
   border-bottom: 1px solid #2a2f3a;
 }
 
 .site-title,
-.page-link {
+.site-title:visited {
   color: #e6e6e6 !important;
 }
+
+.site-nav .page-link {
+  color: #e6e6e6 !important;
+}
+
+/* =========================
+   Contenido principal
+========================= */
+
+.page-content,
+.post-content,
+.wrapper {
+  background-color: #0f1115;
+  color: #d8dee9;
+}
+
+/* =========================
+   Links
+========================= */
 
 a {
   color: #98c379;
@@ -26,11 +53,9 @@ a:hover {
   color: #7fdc9a;
 }
 
-.post-content,
-.page-content,
-.wrapper {
-  color: #d8dee9;
-}
+/* =========================
+   Código (look terminal)
+========================= */
 
 code {
   background-color: #1a1f27;
@@ -42,4 +67,35 @@ pre {
   background-color: #1a1f27;
   border-radius: 6px;
   padding: 10px;
+  overflow-x: auto;
+}
+
+/* =========================
+   Footer
+========================= */
+
+.site-footer {
+  background-color: #0f1115;
+  border-top: 1px solid #2a2f3a;
+  color: #aaa;
+}
+
+/* =========================
+   Tipografía opcional
+========================= */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* =========================
+   Mejora visual general
+========================= */
+
+.post-title {
+  color: #e6e6e6;
+}
+
+.post-meta {
+  color: #888;
 }
