@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Inicio
+layout: default
+title: Home
 ---
 
 # Hyunam Archive
