@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Hyunam Archive is a space dedicated to documenting technical learning, software construction and deep study.
-
-The goal is not just to use technology, but to understand it.
+Hyunam Archive is a space dedicated to technical learning, software construction and deep study.
