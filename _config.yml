@@ -1,5 +1,3 @@
 title: Hyunam Archive
 description: Notes on systems, programming and long-term study
-theme: minima
-sass:
-  style: compressed
+theme: jekyll-theme-hacker
