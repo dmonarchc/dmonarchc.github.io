@@ -3,13 +3,12 @@ layout: home
 title: Inicio
 ---
 
-# Hola, soy Daniel Cisternas
+# Hyunam Archive
 
-Backend Developer | Data | Systems
+A technical archive focused on systems, programming, mathematics and long-term study.
 
-Estoy construyendo:
-- sqlite-clone (base de datos desde cero)
-- microbrowser-engine
-- proyectos de bajo nivel
+## Focus
 
-Bienvenido a mi blog técnico.
+- building systems from scratch
+- understanding how software works internally
+- disciplined technical learning
